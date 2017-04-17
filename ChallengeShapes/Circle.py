@@ -5,7 +5,7 @@ class Circle:
         self.name = "Circle"
         self.ratio = 0
     
-    def setRatio(self, ratio):
+    def setBase(self, ratio):
         self.ratio = ratio
 
     def getArea(self):
